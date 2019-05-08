@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
- - Node version [e.g. 10]
+ - Node version: [e.g. 10]
 
 **Additional context**
 Add any other context about the problem here.
