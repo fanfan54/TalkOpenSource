@@ -33,7 +33,6 @@ in french sorry :v).
 You are interested in contributing to this useless module? Firstly, thank you. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file which will
 tell you more about:
 
-* Opening discussions
 * Styling your contributions
 * Submitting issues and/or pull requests
 
