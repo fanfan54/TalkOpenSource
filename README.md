@@ -10,6 +10,8 @@
 MasterAdd is fundamentally useless. This module was created to demonstrate
 a list of **good practices** when publishing open-source softwares on GitHub.
 
+![Demonstration](.github/demo.gif)
+
 This repository can trully be used as a template as it contains all the
 _admitted mandatories_:
 
