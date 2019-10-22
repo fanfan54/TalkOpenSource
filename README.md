@@ -1,7 +1,7 @@
 # :bulb: MasterAdd
 
 
-[![Build](https://img.shields.io/travis/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](https://travis-ci.org/IamBlueSlime/TalkOpenSource) [![Coverage](https://img.shields.io/codecov/c/github/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](https://codecov.io/gh/IamBlueSlime/TalkOpenSource) [![Dependencies](https://img.shields.io/david/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](https://david-dm.org/IamBlueSlime/TalkOpenSource) [![License](https://img.shields.io/github/license/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](LICENSE.txt)
+[![Build](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg](https://github.com/IamBlueSlime/TalkOpenSource/actions?workflow=Node+CI) [![Coverage](https://img.shields.io/codecov/c/github/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](https://codecov.io/gh/IamBlueSlime/TalkOpenSource) [![Dependencies](https://img.shields.io/david/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](https://david-dm.org/IamBlueSlime/TalkOpenSource) [![License](https://img.shields.io/github/license/IamBlueSlime/TalkOpenSource.svg?style=flat-square)](LICENSE.txt)
 
 
 ## Introduction
