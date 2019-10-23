@@ -1,5 +1,3 @@
-const random = require('random-seed');
-
 const simpleAdd = (a, b) => a + b;
 
 const timesAdd = (a, times) => {
@@ -12,13 +10,7 @@ const timesAdd = (a, times) => {
   return sum;
 };
 
-const magicalAdd = (a, b, delta = 5, seed = -1) => {
-  const rand = (seed !== -1) ? random(seed) : random();
-  return a + b + rand(delta);
-};
-
 module.exports = {
   simpleAdd,
   timesAdd,
-  magicalAdd,
 };
